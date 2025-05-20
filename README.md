@@ -32,5 +32,5 @@ This project is a **fully customizable Telegram clicker bot** designed for crypt
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/telegram-clicker-bot.git
+git clone https://github.com/dgnytrnga/telegram-coin-game-backend
 cd telegram-clicker-bot
